@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'kubeconfig'
         REGISTRY = 'swr.cn-north-1.myhuaweicloud.com'
         DOCKERHUB_NAMESPACE = 'ms-demo'
-        GITHUB_ACCOUNT = 'kubesphere'
+        GITHUB_ACCOUNT = 'kelon001@qq.com'
         APP_NAME = 'devops-java-sample'
     }
 
